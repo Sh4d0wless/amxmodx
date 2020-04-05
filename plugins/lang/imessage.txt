@@ -72,3 +72,6 @@ INF_REACH = Limiti i mesazheve për informacion u arrit!
 
 [pt]
 INF_REACH = Alcançaste o limite de Mensagens de Informação!
+
+[ka]
+INF_REACH = მიღწეულია საინფორმაციო მესიჯების ლიმიტი!
