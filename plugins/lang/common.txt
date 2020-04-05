@@ -547,3 +547,25 @@ CANT_PERF_DEAD = Essa ação não pode ser executada no cliente morto "%s"
 CANT_PERF_BOT = Essa ação não pode ser executada no bot "%s"
 ON = Ativado
 OFF = Desativado
+
+[ka]
+BACK = უკან
+EXIT = გამოსვლა
+MORE = მეტი
+NONE = არცერთი
+ADMIN = ადმინი
+PLAYER = მოთამაშე
+ERROR = შეცდომა
+YES = კი
+NO = არა
+BAN = ბანი
+KICK = გაგდება
+NO_ACC_COM = თქვენ არ გაქვთ საკმარისი წვდომა ამ ბრაძანბისთვის
+USAGE = გამოყენება
+MORE_CL_MATCHT = There is more than one client matching your argument
+CL_NOT_FOUND = Client with that name or userid not found
+CLIENT_IMM = Client "%s" has immunity
+CANT_PERF_DEAD = That action can't be performed on dead client "%s"
+CANT_PERF_BOT = That action can't be performed on bot "%s"
+ON = ჩართული
+OFF = გამორთული
