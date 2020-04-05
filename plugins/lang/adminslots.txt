@@ -72,3 +72,6 @@ DROPPED_RES = U largua për shkak të rezervimit të vendit që është plugini 
 
 [pt]
 DROPPED_RES = Foste desconectado por causa da reservação de slots
+
+[ka]
+DROPPED_RES = ყველა სლოტი დაკავებულია
