@@ -322,3 +322,16 @@ INV_PAS = Palavra-passe inválida!
 PAS_ACC = Palavra-passe aceite
 PRIV_SET = Previlégios postos
 NO_ENTRY = Tu não podes entrar no servidor...
+
+[ka]
+LOADED_ADMIN = ჩაიტვირთა 1 ადმინი ფაილიდან
+LOADED_ADMINS = ჩაიტვირთა %d ადმინი ფაილიდან
+SQL_CANT_CON = SQL პრობლემა: ვერ მოხერხდა ბაზასთან დაკავშირება: '%s'
+SQL_CANT_LOAD_ADMINS = SQL პრობლემა: ვერ მოხერხდა ბაზიდან ადმინების ჩამოტვირთვა: '%s'
+NO_ADMINS = არცერთი ადმინი არაა ნაპონი.
+SQL_LOADED_ADMIN = ბაზიდან ჩაიტვირთა 1 ადმინი
+SQL_LOADED_ADMINS = ბაზიდან ჩაიტვირთა %d ადმინი
+INV_PAS = არასწორი პაროლი!
+PAS_ACC = პაროლი მიღებულია
+PRIV_SET = პრივილეგიები მინიჭებულია
+NO_ENTRY = თქვენ არ გაქვთ ამ სერვერზე შესვლის უფლება...
