@@ -97,3 +97,7 @@ LANG_NAME_NATIVE = Shqipë
 [pt]
 LANG_NAME = European Portuguese
 LANG_NAME_NATIVE = Português de Portugal
+
+[ka]
+LANG_NAME = Georgian
+LANG_NAME_NATIVE = ქართული
