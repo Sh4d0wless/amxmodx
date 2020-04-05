@@ -322,3 +322,16 @@ COL_ORANGE = laranja
 COL_OCEAN = azul marinho
 COL_MAROON = castanho
 PRINT_ALL = (TODOS) %s :   %s
+
+[ka]
+COL_WHITE = თეთრი
+COL_RED = წითელი
+COL_GREEN = მწვანე
+COL_BLUE = ლურჯი
+COL_YELLOW = ყვითელი
+COL_MAGENTA = მეწამული
+COL_CYAN = ცისფერი
+COL_ORANGE = ნარინჯისფერი
+COL_OCEAN = ოკეანისფერი
+COL_MAROON = შინდისფერი
+PRINT_ALL = (ყველა) %s :   %s
