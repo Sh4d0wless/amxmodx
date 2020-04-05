@@ -122,3 +122,8 @@ SPE_MENU = Lista Fjalëve
 CMD_MENU = Menu de Comandos
 CONF_MENU = Menu de Configurações
 SPE_MENU = Menu de Voz
+
+[ka]
+CMD_MENU = ბრძანებების მენიუ
+CONF_MENU = კონფიგურაციების მენიუ
+SPE_MENU = ხმოვანი მენიუ
