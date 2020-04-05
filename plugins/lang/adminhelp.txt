@@ -236,3 +236,15 @@ TIME_INFO_2 = Sem Limite de Tempo. Próximo Mapa: %s
 HELP_CMD_INFO = <entrada no.> [no. de entradas para mostrar (do servidor)] - mostra informação acerca de comandos disponíveis
 SEARCH_CMD_INFO = <correspondência> <entrada no.> [no. de entradas para mostrar (do servidor)] - mostra informações acerca de comandos correspondentes á pesquisa
 NO_MATCHING_RESULTS = ^nSem resultados correspondentes^n
+
+[ka]
+HELP_COMS = AMX Mod X Help: ბრძანებები
+HELP_ENTRIES = ხელმიასწვდომია %d - %d ბრძანება %d -დან
+HELP_USE_MORE = დაწერეთ 'amx_help %d' მეტისთვის
+HELP_USE_BEGIN = დაწერეთ 'amx_help 1' დასაწყებად
+TYPE_HELP = დაწერეთ 'amx_help' კონსოლში ყველა ბრძანების სანახავად
+TIME_INFO_1 = დარჩენილია: %d:%02d წუთი. შემდეგი რუკა: %s
+TIME_INFO_2 = დროის ლიმიტი გათიშულია. შემდეგი რუკა: %s
+HELP_CMD_INFO = <entry no.> [no. of entries to display (server only)] - displays information about available commands
+SEARCH_CMD_INFO = <match> <entry no.> [no. of entries to display (server only)] - displays information about matched commands
+NO_MATCHING_RESULTS = ^nარაფერი არ მოიძებნა^n
