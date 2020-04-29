@@ -447,3 +447,21 @@ STATS_SET = Definições de Stats ^n
 PAUSE_PLUG = Pausar Plugins
 RES_WEAP = Restringir Armas
 TELE_PLAYER = Teleportar Jogador
+
+[ka]
+KICK_PLAYER = მოთამაშის გაგდება
+BAN_PLAYER = ბანის დადება
+SLAP_SLAY = მოთამაშის წამორტყმა/slay
+TEAM_PLAYER = ჯგუფის შეცვლა ^n
+CHANGEL = რუკის შეცვლა
+VOTE_MAPS = რუკაზე კენჭისყრა ^n
+SPECH_STUFF = ხმოვანი შეტყობინება
+CLIENT_COM = კლიენტის ბრძანებები
+SERVER_COM = სერვერის ბრძანებები
+CVARS_SET = ცვლადების(Cvar) პარამეტრები
+CONFIG = კონფიგურაცია
+LANG_SET = ენების პარამეტრები
+STATS_SET = სტატისტიკის პარამეტრები ^n
+PAUSE_PLUG = პლაგინების მართვა
+RES_WEAP = იარაების აკრძალვა
+TELE_PLAYER = ტელეპორტაცია
