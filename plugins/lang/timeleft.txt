@@ -222,3 +222,12 @@ MINUTE = minuto
 MINUTES = minutos
 SECOND = segundo
 SECONDS = segundos
+
+[ka]
+THE_TIME = დრო
+TIME_LEFT = დარჩენილი დრო
+NO_T_LIMIT = დროის ლიმიტი გათიშულია
+MINUTE = წუთი
+MINUTES = წუთები
+SECOND = წამი
+SECONDS = წამები
