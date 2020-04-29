@@ -272,3 +272,14 @@ SET_LANG_SERVER = A língua do servidor foi definida para "%s"
 SET_LANG_USER = A tua língua foi definida para "%s"
 TYPE_LANGMENU = Escreve 'amx_langmenu' na consola para apresentar um menu onde podes escolher a tua língua
 LANG_MENU_DISABLED = Menu de línguas desativado.
+
+[ka]
+LANG_NOT_EXISTS = ენა არაა დამატებული
+PERSO_LANG = პერსონალური ენა
+LANG_MENU = ენის არჩევის მენიუ
+SERVER_LANG = სერვერის ენა
+SAVE_LANG = ენის პარამეტრების შენახვა
+SET_LANG_SERVER = სერვერის ენა გადაყვანილია "%s" -ზე
+SET_LANG_USER = თქვენი პერსონალური ენა გადაყვანილია "%s" -ზე
+TYPE_LANGMENU = დაწერეთ 'amx_langmenu' კონსოლში ენის პარამეტრების შესაცვლელად
+LANG_MENU_DISABLED = ენების მენიუ გათიშულია.
