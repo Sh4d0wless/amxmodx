@@ -597,3 +597,27 @@ ADMIN_V_MAP_2 = ADMIN %s: começou uma votação de mapa(s)
 ADMIN_CHANGEL_1 = ADMIN: mudou de mapa para %s
 ADMIN_CHANGEL_2 = ADMIN %s: mudou de mapa para %s
 CHANGLE_MENU = Menu de Mudar de Mapa
+
+[ka]
+RESULT_REF = შედეგი უარყოფილია
+RESULT_ACC = შედეგი მიღებულია
+VOTE_SUCCESS = ხმის მიცემა დასრულდა. შემდეგი რუკაა
+VOTE_FAILED = ხმის მიცემა ჩაიშალა
+THE_WINNER = გამარჯვებულია
+WANT_CONT = გსურთ გაგრძელება?
+VOT_CANC = კენჭისყრა შეწყვეტილია
+X_VOTED_FOR = %s ხმა მისცა(აირჩია) #%d
+VOTEMAP_MENU = Votemap მენიუ
+START_VOT = ხმის მიცემის დაწყება
+SEL_MAPS = არჩეული რუკები
+ALREADY_VOT = ხმის მიცემა უკვე მიმდინარეობს...
+NO_MAPS_MENU = არცერთი რუკა არაა მენიუში
+VOT_NOW_ALLOW = კენჭისყრა აკრძალულია ამ მომენტისთვის
+WHICH_MAP = რომელი რუკა გსურთ?
+CHANGE_MAP_TO = შეიცვალოს რუკა
+CANC_VOTE = კენჭისრის გათიშვა
+ADMIN_V_MAP_1 = ადმინისტრატორმა: დაიწყო რუკის კენჭისყრა
+ADMIN_V_MAP_2 = ადმინისტრატორმა %s: დაიწყო რუკის კენჭისყრა
+ADMIN_CHANGEL_1 = ადმინისტრატორმა: შეცვალა რუკა %s
+ADMIN_CHANGEL_2 = ადმინისტრატორმა %s: შეცვალა რუკა %s
+CHANGLE_MENU = რუკის შეცვლის მენიუ
