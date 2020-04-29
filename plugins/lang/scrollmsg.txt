@@ -122,3 +122,8 @@ MSG_DISABLED = Diskutimi mesazhit është i q'aktivizuar
 MIN_FREQ = A Frequência Mínima para esta mensagem é de %d segundos
 MSG_FREQ = Frequência de exibição da Mensagem Rolante: %d:%02d minutos
 MSG_DISABLED = Mensagem Rolante desativada
+
+[ka]
+MIN_FREQ = ამ მორბენალი სტრიქონის მინიმალური გამოჩენის სიხშირე არის %d წამი
+MSG_FREQ = მორბენალი სტრიქონის გამოჩენის სიხშირე: %d:%02d წუთი
+MSG_DISABLED = მორბენალი სტრიქონი დაბლოკილია
