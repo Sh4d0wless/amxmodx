@@ -224,7 +224,7 @@ EXTED_MAP = Estender o mapa %s
 TIME_CHOOSE = É hora de escolher o próximo mapa...
 
 [ka]
-CHO_FIN_EXT = ხმის მიცემა დასრულა. რუკა გაგრძელდება %.0f წუთით
+CHO_FIN_EXT = ხმის მიცემა დასრულდა. რუკა გაგრძელდება %.0f წუთით
 CHO_FIN_NEXT = ხმის მიცემა დასრულა. შემდეგი რუკაა %s
 CHOSE_EXT = %s რუკის გაგრძლება
 X_CHOSE_X = %s არჩევა %s
