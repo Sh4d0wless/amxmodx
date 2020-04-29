@@ -222,3 +222,12 @@ X_CHOSE_X = %s escolheu %s
 CHOOSE_NEXTM = AMX Escolher próximo mapa
 EXTED_MAP = Estender o mapa %s
 TIME_CHOOSE = É hora de escolher o próximo mapa...
+
+[ka]
+CHO_FIN_EXT = ხმის მიცემა დასრულა. რუკა გაგრძელდება %.0f წუთით
+CHO_FIN_NEXT = ხმის მიცემა დასრულა. შემდეგი რუკაა %s
+CHOSE_EXT = %s რუკის გაგრძლება
+X_CHOSE_X = %s არჩევა %s
+CHOOSE_NEXTM = AMX აირჩია მომდევნო რუკა
+EXTED_MAP = რუკა გაგრძელდა %s
+TIME_CHOOSE = შემდეგი რუკის არჩევის დროა...
