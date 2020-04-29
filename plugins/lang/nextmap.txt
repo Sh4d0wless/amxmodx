@@ -122,3 +122,8 @@ FRIEND_FIRE = Sulmo shokët
 NEXT_MAP = Próximo Mapa:
 PLAYED_MAP = Mapa jogado
 FRIEND_FIRE = Fogo amigo
+
+[ka]
+NEXT_MAP = შემდეგი რუკა:
+PLAYED_MAP = მიმდინარე რუკა
+FRIEND_FIRE = მეგობრული ცეცხლი(სროლა)
